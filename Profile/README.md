@@ -1,5 +1,5 @@
 # LifeMate
-> Your Ultimate Health Prediction App
+Your Ultimate Health Prediction App
 <h1 align="center">
   <img src="https://i.imgur.com/gtSZ6Q8.png" width="200"/><br/>
   LifeMate
@@ -20,7 +20,7 @@ to users by learning about their history and preferences.
 - [About](#About)
 - [Features](#Features)
 - [Details](#Details)
-- [Technologies](#Technologies Used)
+- [Technologies](#Technologies&#32;Used)
 - [Author](#Author)
 
 ## About

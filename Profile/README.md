@@ -20,7 +20,7 @@ to users by learning about their history and preferences.
 - [About](#About)
 - [Features](#Features)
 - [Details](#Details)
-- [Technologies](#Technologies%20Used)
+- [Technologies](#Technologies-Used)
 - [Author](#Author)
 
 ## About
